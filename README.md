@@ -11,6 +11,10 @@ The legal team wants to improve how long it takes to reply to customers and clos
 
 The head of the legal department wants a report on how each location differs in the time it takes to close claims.
 
+## Data
+![image](https://github.com/oladeeayo/Vivendo-Food-Claims/assets/13979269/bc5437ef-42d8-47b9-a98b-6f0ee880af26)
+
+
 ## Tasks 
 
 Submit your answers directly in the workspace provided.
